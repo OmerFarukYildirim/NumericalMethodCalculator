@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684859612 source:d:\c\ypg_donem_projesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
